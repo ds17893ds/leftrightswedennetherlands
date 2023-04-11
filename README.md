@@ -7,3 +7,5 @@ library(ggplot2)
 
 ## Download ESS data
 download ESS round 9 data: https://ess-search.nsd.no/en/study/bdc7c350-1029-4cb3-9d5e-53f668b8fa74
+
+## Run the code
